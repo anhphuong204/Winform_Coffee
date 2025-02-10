@@ -31,7 +31,7 @@ I. Viết bằng WinForms C#, SQL Server
 <img src="https://github.com/user-attachments/assets/9da86f74-cc33-465b-a32d-c2c322c5936b" width="300">  
 
 ### 3. Trang chủ với quyền Nhân viên  
-<img src="https://github.com/user-attachments/assets/1242302c-8d66-4632-831e-9d49940cd390" width="500">  
+<img src="https://github.com/user-attachments/assets/1242302c-8d66-4632-831e-9d49940cd390" width="300">  
 
 ### 4. Quên mật khẩu  
 <img src="https://github.com/user-attachments/assets/bbc65557-eb70-42bb-bb5f-79a3e5d1b1d7" width="300">  
